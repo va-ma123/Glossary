@@ -1,0 +1,6 @@
+word
+a string of characters
+
+world
+a region or group of countries
+
